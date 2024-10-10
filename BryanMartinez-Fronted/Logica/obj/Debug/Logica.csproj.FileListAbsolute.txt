@@ -1,0 +1,13 @@
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\bin\Debug\Logica.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\bin\Debug\Logica.pdb
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\bin\Debug\Datos.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\bin\Debug\Model.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\bin\Debug\Datos.pdb
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\bin\Debug\Model.pdb
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\obj\Debug\Logica.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Logica\obj\Debug\Logica.pdb

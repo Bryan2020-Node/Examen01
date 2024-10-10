@@ -23,7 +23,7 @@ namespace Datos
         private string urlAPI = "http://aphmx442916.azurewebsites.net/sales/data/";
 
         static HttpClient client = new HttpClient();
-        public Registros_Response consultaRegistros(string id, DateTime fecha)
+        public Registros_Response NuevoDato(string id, DateTime fecha)
         {
             Registros_Response lista = new Registros_Response();
             //List<Registros_Response> listas = new List<Registros_Response>();
@@ -77,9 +77,11 @@ namespace Datos
             SqlCommand cmd = new SqlCommand("SP_CatpuraDatosAPI", conexionBd);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.Add("@id", SqlDbType.Int).Value = response.id;
+            cmd.Parameters.Add("@fecha", SqlDbType.Date).Value = response.date;
             cmd.Parameters.Add("@nombre", SqlDbType.NVarChar).Value = response.name;
-            cmd.Parameters.Add("@sales", SqlDbType.Int).Value = response.sales;
+            cmd.Parameters.Add("@sales", SqlDbType.Decimal).Value = response.sales;
             cmd.Parameters.Add("@expenses", SqlDbType.Decimal).Value = response.expenses;
+            cmd.Parameters.Add("@utiliy", SqlDbType.Decimal).Value = response.sales - response.expenses;
             conexionBd.Open();
             if (cmd.ExecuteNonQuery() > 0)
             {
@@ -95,6 +97,18 @@ namespace Datos
             
         }
 
+        public DataTable ObtenerDatos(string request)
+        {
+            SqlCommand cmd = new SqlCommand("SP_ListaRegistros", conexionBd);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@sucursales", SqlDbType.NVarChar).Value = request;
+            conexionBd.Open();
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(cmd);
+            DataTable dataTable = new DataTable();
+            sqlDataAdapter.Fill(dataTable);
+            conexionBd.Close();
+            return dataTable;
+        }
 
     }
 }

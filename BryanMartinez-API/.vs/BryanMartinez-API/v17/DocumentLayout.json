@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{629D4136-6CF1-456F-8B8A-1B43A5EB102B}|BryanMartinez-API\\BryanMartinez-API.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-api\\bryanmartinez-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629D4136-6CF1-456F-8B8A-1B43A5EB102B}|BryanMartinez-API\\BryanMartinez-API.csproj|solutionrelative:bryanmartinez-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22770CF4-750D-455E-AF0C-55BA09A3EACA}|Datos\\Datos.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-api\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22770CF4-750D-455E-AF0C-55BA09A3EACA}|Datos\\Datos.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{E436CA63-6CE2-42F9-BFFB-CC623F098D8E}|Model\\Model.csproj|solutionrelative:model\\registros_response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22770CF4-750D-455E-AF0C-55BA09A3EACA}|Datos\\Datos.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-api\\datos\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22770CF4-750D-455E-AF0C-55BA09A3EACA}|Datos\\Datos.csproj|solutionrelative:datos\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{324AD530-3ED0-45C4-84B6-AAAC775E3890}|Logica\\Logica.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-api\\logica\\interfaz\\isucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324AD530-3ED0-45C4-84B6-AAAC775E3890}|Logica\\Logica.csproj|solutionrelative:logica\\interfaz\\isucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{629D4136-6CF1-456F-8B8A-1B43A5EB102B}|BryanMartinez-API\\BryanMartinez-API.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-api\\bryanmartinez-api\\controllers\\examencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +27,8 @@
       "RelativeMoniker": "D:0:0:{324AD530-3ED0-45C4-84B6-AAAC775E3890}|Logica\\Logica.csproj|solutionrelative:logica\\logica\\buscaregistros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{324AD530-3ED0-45C4-84B6-AAAC775E3890}|Logica\\Logica.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-api\\logica\\interfaz\\isucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{324AD530-3ED0-45C4-84B6-AAAC775E3890}|Logica\\Logica.csproj|solutionrelative:logica\\interfaz\\isucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{629D4136-6CF1-456F-8B8A-1B43A5EB102B}|BryanMartinez-API\\BryanMartinez-API.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-api\\bryanmartinez-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{629D4136-6CF1-456F-8B8A-1B43A5EB102B}|BryanMartinez-API\\BryanMartinez-API.csproj|solutionrelative:bryanmartinez-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22770CF4-750D-455E-AF0C-55BA09A3EACA}|Datos\\Datos.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-api\\datos\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22770CF4-750D-455E-AF0C-55BA09A3EACA}|Datos\\Datos.csproj|solutionrelative:datos\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,6 +55,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Registros_Response.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\Model\\Registros_Response.cs",
+              "RelativeDocumentMoniker": "Model\\Registros_Response.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\Model\\Registros_Response.cs",
+              "RelativeToolTip": "Model\\Registros_Response.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:47:33.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "bd.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\Datos\\bd.cs",
               "RelativeDocumentMoniker": "Datos\\bd.cs",
@@ -62,57 +75,56 @@
               "RelativeToolTip": "Datos\\bd.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T00:14:00.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T00:14:00.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\BryanMartinez-API\\Program.cs",
               "RelativeDocumentMoniker": "BryanMartinez-API\\Program.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\BryanMartinez-API\\Program.cs",
               "RelativeToolTip": "BryanMartinez-API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T23:33:30.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ExamenController.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\BryanMartinez-API\\Controllers\\ExamenController.cs",
               "RelativeDocumentMoniker": "BryanMartinez-API\\Controllers\\ExamenController.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\BryanMartinez-API\\Controllers\\ExamenController.cs",
               "RelativeToolTip": "BryanMartinez-API\\Controllers\\ExamenController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAABBAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T23:27:54.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "buscaRegistros.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\Logica\\Logica\\buscaRegistros.cs",
               "RelativeDocumentMoniker": "Logica\\Logica\\buscaRegistros.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\Logica\\Logica\\buscaRegistros.cs",
               "RelativeToolTip": "Logica\\Logica\\buscaRegistros.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBEAAAAcAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T23:25:03.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ISucursal.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\Logica\\interfaz\\ISucursal.cs",
               "RelativeDocumentMoniker": "Logica\\interfaz\\ISucursal.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\Logica\\interfaz\\ISucursal.cs",
               "RelativeToolTip": "Logica\\interfaz\\ISucursal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAIAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswAwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T23:24:02.892Z",
               "EditorCaption": ""
@@ -120,25 +132,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Registros_Response.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\Model\\Registros_Response.cs",
-              "RelativeDocumentMoniker": "Model\\Registros_Response.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\Model\\Registros_Response.cs",
-              "RelativeToolTip": "Model\\Registros_Response.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T23:11:43.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "conexion.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\Datos\\conexion.cs",
               "RelativeDocumentMoniker": "Datos\\conexion.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-API\\Datos\\conexion.cs",
               "RelativeToolTip": "Datos\\conexion.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAArwEoAAAA9AAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwE4AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T23:08:57.503Z",
               "EditorCaption": ""

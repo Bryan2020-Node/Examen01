@@ -1,5 +1,6 @@
 ﻿@{
     ViewBag.Title = "Home Page";
+    
 }
 
 <main>
@@ -20,10 +21,35 @@
     <br /><br /><br />
     <div class="row">
         <div class="col col-4">
-            <button type="button" id="btnEjecutar">Ver Resultados</button>
+            <button type="button" id="btnEjecutar">Registrar</button>
+        </div>
+    </div>
+
+    <hr />
+    <br /><br />
+    <h2>Lista Registros</h2>
+    <br />
+    <div class="row">
+        <div class="col col-4">
+            <label for="txtIds">Ids(1,2,3)</label>
+            <input type="text" id="txtIds" name="txtIds" />
+        </div>
+    </div>
+    <br /><br /><br />
+    <div class="row">
+        <div class="col col-4">
+            <button type="button" id="btnConsutar">Ver Registros</button>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="form-group col-md-12" id="tablaDatos">
+            @Html.Partial("_ListaDatos")
         </div>
     </div>
 </main>
+
+
 
 
 <script>
@@ -32,8 +58,45 @@
     function ejecuarMetodo() {
         var _id = $('#txtId').val();
         var _fecha = $('#txtFecha').val();
-        
+
         var Datos = { id: _id, fecha: _fecha };
-        var url = '@Url.Action("EjecutarApi", "Home")';
+
+            $.ajax({
+    type: "POST",
+    url: '@Url.Action("EjecutarApi_NuevoRegistro", "Home")',
+    data: Datos,
+    cache: false,
+    success: function (data) {
+        if (data.ok == true) {
+            alert(data.mensaje)
+            $('#txtId').val(null);
+            $('#txtFecha').val(null);
+        }
+        else if (data.Tipo == "Error"){
+            $('#txtId').val(null);
+            $('#txtFecha').val(null);
+            alert(data.mensaje)
+        }
+    },
+        error: function (data) {
+            $('#load_Menu').hide();
+        Swal({
+            type: 'error'
+            , title: 'Ups! hubo un problema.'
+            , showConfirmButton: false
+            , timer: 3000
+        })
     }
+});
+    }
+
+
+    $('#btnConsutar').on('click', listaDatos);
+
+    function listaDatos() {
+    var _ids = $('#txtIds').val();
+    var Datos = { ids: _ids };
+    var url = '@Url.Action("ListaDatos", "Home")';
+    $('#tablaDatos').load(url, Datos);
+}
 </script>

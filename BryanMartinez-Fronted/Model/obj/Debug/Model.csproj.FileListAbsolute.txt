@@ -1,0 +1,6 @@
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Model\bin\Debug\Model.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Model\bin\Debug\Model.pdb
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Model\obj\Debug\Model.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\Model\obj\Debug\Model.pdb

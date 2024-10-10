@@ -1,17 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\BryanMartinez-Fronted\\",
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|c:\\users\\msi\\source\\repos\\bryanmartinez-fronted\\bryanmartinez-fronted\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|solutionrelative:bryanmartinez-fronted\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|c:\\users\\msi\\source\\repos\\bryanmartinez-fronted\\bryanmartinez-fronted\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\bryanmartinez-fronted\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|solutionrelative:bryanmartinez-fronted\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|c:\\users\\msi\\source\\repos\\bryanmartinez-fronted\\bryanmartinez-fronted\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3290B3F7-6393-4180-B3D0-5230389F6EB3}|Logica\\Logica.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-fronted\\logica\\registroslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3290B3F7-6393-4180-B3D0-5230389F6EB3}|Logica\\Logica.csproj|solutionrelative:logica\\registroslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-fronted\\bryanmartinez-fronted\\views\\home\\_listadatos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|solutionrelative:bryanmartinez-fronted\\views\\home\\_listadatos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-fronted\\bryanmartinez-fronted\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|solutionrelative:bryanmartinez-fronted\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182037AD-E28F-4E75-90C4-FC423966D1D6}|Datos\\Datos.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-fronted\\datos\\conexionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182037AD-E28F-4E75-90C4-FC423966D1D6}|Datos\\Datos.csproj|solutionrelative:datos\\conexionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B8667A-283F-4A6B-8304-9EA61D67FA11}|Model\\Model.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-fronted\\model\\registrar_response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B8667A-283F-4A6B-8304-9EA61D67FA11}|Model\\Model.csproj|solutionrelative:model\\registrar_response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3290B3F7-6393-4180-B3D0-5230389F6EB3}|Logica\\Logica.csproj|c:\\users\\msi\\desktop\\examen1\\bryanmartinez-fronted\\logica\\nuevologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3290B3F7-6393-4180-B3D0-5230389F6EB3}|Logica\\Logica.csproj|solutionrelative:logica\\nuevologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\bryanmartinez-fronted\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB1DC038-AC3B-4EF3-8979-49FA1955181C}|BryanMartinez-Fronted\\BryanMartinez-Fronted.csproj|solutionrelative:bryanmartinez-fronted\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,38 +59,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_ListaDatos.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Views\\Home\\_ListaDatos.cshtml",
+              "RelativeDocumentMoniker": "BryanMartinez-Fronted\\Views\\Home\\_ListaDatos.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Views\\Home\\_ListaDatos.cshtml",
+              "RelativeToolTip": "BryanMartinez-Fronted\\Views\\Home\\_ListaDatos.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvykAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T04:28:29.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrosLogic.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\Logica\\RegistrosLogic.cs",
+              "RelativeDocumentMoniker": "Logica\\RegistrosLogic.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\Logica\\RegistrosLogic.cs",
+              "RelativeToolTip": "Logica\\RegistrosLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:17:39.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registrar_Response.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\Model\\Registrar_Response.cs",
+              "RelativeDocumentMoniker": "Model\\Registrar_Response.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\Model\\Registrar_Response.cs",
+              "RelativeToolTip": "Model\\Registrar_Response.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:13:31.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NuevoLogica.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\Logica\\NuevoLogica.cs",
+              "RelativeDocumentMoniker": "Logica\\NuevoLogica.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\Logica\\NuevoLogica.cs",
+              "RelativeToolTip": "Logica\\NuevoLogica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:34:43.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "conexionApi.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\Datos\\conexionApi.cs",
+              "RelativeDocumentMoniker": "Datos\\conexionApi.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\Datos\\conexionApi.cs",
+              "RelativeToolTip": "Datos\\conexionApi.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA3wFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:27:32.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BryanMartinez-Fronted\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BryanMartinez-Fronted\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-10T00:30:45.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BryanMartinez-Fronted\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BryanMartinez-Fronted\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCQAAAAzAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-10T00:30:12.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BryanMartinez-Fronted\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Examen1\\BryanMartinez-Fronted\\BryanMartinez-Fronted\\Controllers\\HomeController.cs",
               "RelativeToolTip": "BryanMartinez-Fronted\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAIAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC0AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T00:30:04.315Z",
               "EditorCaption": ""

@@ -137,8 +137,10 @@ C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\ros
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\roslyn\VBCSCompiler.exe
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Logica.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Model.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Newtonsoft.Json.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\System.Web.Helpers.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\System.Web.Mvc.dll
@@ -148,6 +150,9 @@ C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Sys
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\System.Web.WebPages.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\System.Web.WebPages.Razor.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\WebGrease.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Datos.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Logica.pdb
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Model.pdb
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\System.Web.Helpers.xml
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\System.Web.Mvc.xml
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\System.Web.Optimization.xml
@@ -158,6 +163,7 @@ C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Sys
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Newtonsoft.Json.xml
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Antlr3.Runtime.pdb
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\Datos.pdb
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\es\System.Web.Helpers.resources.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\es\System.Web.Mvc.resources.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\es\System.Web.Optimization.resources.dll
@@ -167,6 +173,6 @@ C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\es\
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\bin\es\System.Web.WebPages.Razor.resources.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\obj\Debug\BryanMartinez-Fronted.csproj.AssemblyReference.cache
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\obj\Debug\BryanMartinez-Fronted.csproj.CoreCompileInputs.cache
-C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\obj\Debug\BryanMartinez-Fronted.csproj.CopyComplete
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\obj\Debug\BryanMar.9C679A05.Up2Date
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\obj\Debug\BryanMartinez-Fronted.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-Fronted\BryanMartinez-Fronted\obj\Debug\BryanMartinez-Fronted.pdb

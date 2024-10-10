@@ -10,6 +10,7 @@ C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.Ge
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.sourcelink.json
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.dll
 C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\refint\Logica.dll

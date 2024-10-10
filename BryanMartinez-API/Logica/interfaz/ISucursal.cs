@@ -9,6 +9,7 @@ namespace Logica.interfaz
 {
     public interface ISucursal
     {
-        Registros_Response consultaRegistros(string id, DateTime fecha);
+        Registros_Response NuevoDato(string id, DateTime fecha);
+        List<Registros_Response> ObtenerDatos(string request);
     }
 }

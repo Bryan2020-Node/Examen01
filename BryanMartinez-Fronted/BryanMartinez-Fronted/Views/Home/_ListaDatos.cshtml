@@ -1,0 +1,45 @@
+﻿
+@{
+    List<Model.ListResults_Response> lista = ViewBag.resultados;
+    if (ViewBag.resultados != null)
+    {
+        lista = ViewBag.resultados;
+    }
+}
+
+@if (lista != null)
+{
+    if (lista.Count > 0)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Sucursal</th>
+                    <th>Nombre</th>
+                    <th>Ventas</th>
+                    <th>Gastos</th>
+                    <th>Utilidad</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in lista)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.id)</td>
+                        <td>@Html.DisplayFor(modelItem => item.name)</td>
+                        <td>@Html.DisplayFor(modelItem => item.sales)</td>
+                        <td>@Html.DisplayFor(modelItem => item.expenses)</td>
+                        <td>@Html.DisplayFor(modelItem => item.utility)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <br /><br />
+        <div class="alert alert-warning" role="alert">
+            Sin resultados
+        </div>
+    }
+}
