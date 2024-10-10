@@ -1,0 +1,17 @@
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\bin\Debug\net8.0\Datos.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\bin\Debug\net8.0\Model.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\bin\Debug\net8.0\Model.pdb
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\MSI\Desktop\Examen1\BryanMartinez-API\Logica\obj\Debug\net8.0\ref\Logica.dll

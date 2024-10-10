@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <br /><br />
+    <div class="row">
+        <div class="col col-4">
+            <label for="txtId">Id</label>
+            <input type="number" id="txtId" name="txtId" />
+        </div>
+        <div class="col col-4">
+            <label for="txtFecha">Fecha</label>
+            <input type="date" id="txtFecha" name="txtFecha" />
+        </div>
+
+
+
+    </div>
+    <br /><br /><br />
+    <div class="row">
+        <div class="col col-4">
+            <button type="button" id="btnEjecutar">Ver Resultados</button>
+        </div>
+    </div>
+</main>
+
+
+<script>
+    $('#btnEjecutar').on('click', ejecuarMetodo);
+
+    function ejecuarMetodo() {
+        var _id = $('#txtId').val();
+        var _fecha = $('#txtFecha').val();
+        
+        var Datos = { id: _id, fecha: _fecha };
+        var url = '@Url.Action("EjecutarApi", "Home")';
+    }
+</script>
